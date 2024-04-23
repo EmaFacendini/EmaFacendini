@@ -1,6 +1,6 @@
 <h2 align="center"> Hola, soy Emanuel</a> 👋</h2>
 
-<div align="center"><br /><img src="./images/kids-goku-peace.gif" width="250"/><br /></div>
+<div align="center"><br /><img src="https://media1.tenor.com/m/D55R-SuFKGgAAAAC/kids-goku-peace.gif"/><br /></div>
 <br />
 Bienvenido! Soy un desarrollador de software full stack. Aspiro a convertirme en un gran programador y poder crear aplicaciones interesantes y útiles.
 <br />
