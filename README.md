@@ -94,4 +94,4 @@ Una aplicación construida para el bootcamp de Henry, que consistió en el desar
 
 
 <h2 align="center"> Gracias! nos vemos Pronto</a> 👋</h2>
-<div align="center"><br /><img src="./images/goku-flying-nimbus.gif" width="250"/><br /></div>
+<div align="center"><br /><img src="https://media.tenor.com/t9TTIVfMQWoAAAAM/goku-flying-nimbus.gif" width="250"/><br /></div>
