@@ -41,7 +41,7 @@ Panel de Administración:
 Implementaremos un panel completo para administradores, donde podrán acceder a todos los datos relevantes, visualizar métricas clave y gestionar permisos de acceso según sea necesario."
 </p>
 
-<h4>BOSCO</h4>
+
 - <a href="https://github.com/Seb-astiam/front-Bosco" target="_blank">GitHub Repo</a><br />
 - <a href="https://front-bosco.up.railway.app/" target="_blank">Deployed API</a><br />
 - <a href="https://backoffice-bosco-production.up.railway.app/." target="_blank">Deployed BackOffice</a><br />
