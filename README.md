@@ -15,6 +15,19 @@ Bienvenido! Soy un desarrollador de software full stack. Aspiro a convertirme en
 
 ### Trabajos Recientes
 
+<h3><a href="https://github.com/EmaFacendini/ecommerce-Backend" target="_blank">ecommerce Backend URIG MOTOS y REPUESTOS</a></h3>
+<p>
+Backend de Aplicación de ecommerce para un concesionario de Motos, repuestos y accesorios.-
+Tecnologias: Nest js, PrismaORM y MySQL, TypeScript, cludinary, 
+
+</p>
+
+--------------------------------
+
+- <a href="https://github.com/MFPablo/basf_afip_automation" target="_blank">GitHub Repo</a><br />
+
+- Creado con: TypeScript | bun | hono | afip js | afip SDK | node | node-cron | xlsx-js-style | SOAP |.- <br />
+
 <h3><a href="https://github.com/MFPablo/basf_afip_automation" target="_blank">Automatizacion ARCA (ex AFIP)</a></h3>
 <p>
 Sistema desarrollado para automatizar acceso y descarga de información del MOA de ARCA (Ex AFIP)
