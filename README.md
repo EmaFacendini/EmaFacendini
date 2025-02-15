@@ -15,6 +15,21 @@ Bienvenido! Soy un desarrollador de software full stack. Aspiro a convertirme en
 
 ### Trabajos Recientes
 
+<h3><a href="https://github.com/MFPablo/basf_afip_automation" target="_blank">Automatizacion ARCA (ex AFIP)</a></h3>
+<p>
+Sistema desarrollado para automatizar acceso y descarga de información del MOA de ARCA (Ex AFIP)
+para el personal Administrativo, optimizando tiempos y recursos.
+Tenologias: 
+</p>
+
+
+- <a href="https://github.com/MFPablo/basf_afip_automation" target="_blank">GitHub Repo</a><br />
+
+- Creado con: TypeScript | bun | hono | afip js | afip SDK | node | node-cron | xlsx-js-style | SOAP |.- <br />
+
+
+------------------------
+
 <h3><a href="https://front-bosco.up.railway.app/" target="_blank">BOSCO: alojamiento para mascotas</a></h3>
 <p>
 Con BOSCO Desarrollamos una plataforma innovadora que conectará a dueños de mascotas con personas dispuestas a ofrecer alojamiento temporal y servicios afines. 
